@@ -8,7 +8,7 @@ const trendingProducts: ProductCardProps[] = [
     id: 5,
     name: 'Handmade Leather Journal',
     slug: 'handmade-leather-journal',
-    image: '',
+    image: '/Gai.jpg',
     price: 1200,
     artistName: 'Vikram Singh',
     rating: 4.6,
